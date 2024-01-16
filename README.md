@@ -1,1 +1,1 @@
-# Customizable-Gesture-Recognition
+# Customizable-Hand-Gesture-Recognition
